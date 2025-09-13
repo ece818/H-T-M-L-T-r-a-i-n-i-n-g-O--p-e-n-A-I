@@ -37,14 +37,19 @@ body {
   /* width: 50%; */
 }
 .box:hover {
-  background-color: rgb(70, 1, 70);
+  background-color: rgb(240, 104, 240);
+  font-size: larger;
 }
 
 .box:hover .type {
-  background-color: rgba(255, 217, 0, 0.795);
+  background-color: rgba(100, 86, 2, 0.795);
+  font-size: x-small;
+}
+.box:hover .whoami {
+  font-weight: bold;
 }
 .lyrics {
   padding: 10px;
   text-align: center;
-  font-size: large;
+  font-size: larger;
 }
