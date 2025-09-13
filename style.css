@@ -53,3 +53,7 @@ body {
   text-align: center;
   font-size: larger;
 }
+.whoami:hover {
+  font-size: large;
+  color: white;
+}
