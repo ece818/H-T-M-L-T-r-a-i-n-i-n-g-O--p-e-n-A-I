@@ -22,7 +22,7 @@ body {
 }
 
 .type {
-  background-color: gold;
+  background-color: #88fc05;
   color: black;
   padding-left: 5px;
   padding-right: 5px;
@@ -42,7 +42,7 @@ body {
 }
 
 .box:hover .type {
-  background-color: rgba(100, 86, 2, 0.795);
+  background-color: #89fc058f;
   font-size: x-small;
 }
 .box:hover .whoami {
