@@ -1,0 +1,39 @@
+body {
+  background-color: darkslategrey;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  padding-top: 10px;
+}
+
+#artist {
+  color: rgb(2, 255, 99);
+}
+
+#title {
+  color: pink;
+  text-align: center;
+}
+
+.type {
+  background-color: gold;
+  color: black;
+  padding-left: 5px;
+  padding-right: 5px;
+  text-decoration: underline;
+  display: inline;
+}
+
+.box {
+  background-color: darkmagenta;
+  border: 2px solid black;
+  padding: 15px;
+  /* width: 50%; */
+}
+
+.lyrics {
+  padding: 10px;
+  text-align: center;
+}
