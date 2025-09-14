@@ -1,6 +1,8 @@
 body {
   background-image: url("images/background.webp");
   background-attachment: fixed;
+  background-size: cover;
+  background: ;
   padding-top: 10px;
 }
 
